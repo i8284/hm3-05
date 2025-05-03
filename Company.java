@@ -7,7 +7,7 @@ public class Company {
     private int credit = 0;  //расходы
 
 
-    private int proceeds = 0;
+    
 
     public Company (String title, TaxSystem taxSystem) {
         this.title = title;
